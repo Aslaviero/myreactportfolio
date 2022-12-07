@@ -12,9 +12,9 @@ This is my React Portfolio that shows my skillset in using React, Javascript, an
 
 ## Screenshot
 
-<img src="https://github.com/Aslaviero/React-Portfolio/blob/main/react-portfolio/my-app/src/images/Screenshot%202022-12-05%20084024.png">
-<img src="https://github.com/Aslaviero/React-Portfolio/blob/main/react-portfolio/my-app/src/images/Screenshot%202022-12-05%20084051.png">
-<img src="https://github.com/Aslaviero/React-Portfolio/blob/main/react-portfolio/my-app/src/images/Screenshot%202022-12-05%20084111.png">
-<img src="https://github.com/Aslaviero/React-Portfolio/blob/main/react-portfolio/my-app/src/images/Screenshot%202022-12-05%20084131.png">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
 
 ## live Site
