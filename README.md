@@ -19,4 +19,4 @@ This is my React Portfolio that shows my skillset in using React, Javascript, an
 
 ## live Site
 
-https://anthonyslaviero-portfolio.herokuapp.com/
+https://aslaviero.github.io/myreactportfolio/
