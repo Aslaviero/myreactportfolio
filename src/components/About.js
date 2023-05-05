@@ -21,15 +21,16 @@ function About() {
               alt=" Anthony Slaviero Selfie"
               className="rounded-circle mt-3 img-fluid"
             />
+            <p>
             Hey, my name is Anthony Slaviero. I am Full-Stack Developer based in
-            Phx, Arizona. Before starting my journey to Web Development I did
+            Phx, Arizona. Before starting my journey in Web Development I did
             in-person and online sales, Data Entry, Money management, Book
-            keeping, and so much more. I have always been interested in
-            computers the how and why they work and what the people behind the
-            scenes do to keep it going. Now I am learning to do that myself and
-            looking forward to building many websites, apps, and platforms in
-            the future. When I am not coding or studying I can be found either
-            hiking, cooking, reading, or playing video games.
+            keeping, and so much more. Ever since I was a child and used my first
+            computer I have been interested in knowing everything about them. 
+            Now I am learning to do that myself and looking forward to building
+            many websites, apps, and platforms in the future. When I am not coding
+            or studying I can be found either hiking, cooking, reading, or playing
+            video games.</p>
           </Card.Body>
         </Card>
       </Row>

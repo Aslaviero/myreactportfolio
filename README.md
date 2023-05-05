@@ -2,7 +2,7 @@
 
 ## Description
 
-This is my React Portfolio that shows my skillset in using React, Javascript, and Bootstrap! It also shows all the projects I have created since starting my coding journey.
+This is my React Portfolio that shows my skill set in using React, Javascript, and Bootstrap! It also shows all the projects I have created since starting my coding journey.
 
 ## Technology
 
